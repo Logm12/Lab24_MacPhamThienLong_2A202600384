@@ -4,5 +4,10 @@ __pycache__/
 *.pyc
 .pytest_cache/
 qdrant_data/
+local_qdrant_db/
+antigravity-awesome-skills/
+qdrant_storage/
+scratch_*.py
+directory_report.md
 *.egg-info/
 reports/*.json

@@ -99,13 +99,13 @@ grep -r "# TODO" src/m*.py | wc -l    # Should be 0
 
 ---
 
-## ⚠️ Điểm liệt
+## ️ Điểm liệt
 
 > Nếu nhóm **không có RAGAS evaluation** (M4 không implement) hoặc **không có failure analysis**, điểm tối đa phần Nhóm bị giới hạn ở **20 điểm**.
 
 ---
 
-## 📋 Quy trình nộp bài
+##  Quy trình nộp bài
 
 1. Chạy `python main.py` để tạo reports
 2. Điền `analysis/failure_analysis.md` và `analysis/group_report.md`
@@ -117,7 +117,7 @@ grep -r "# TODO" src/m*.py | wc -l    # Should be 0
 
 ---
 
-## 👤 Individual Reflection (bắt buộc)
+##  Individual Reflection (bắt buộc)
 
 Mỗi thành viên nộp file `analysis/reflections/reflection_[Tên].md` gồm:
 - Đóng góp kỹ thuật cụ thể (module nào, hàm nào)

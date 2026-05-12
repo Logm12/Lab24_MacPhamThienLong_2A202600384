@@ -1,3 +1,78 @@
 [
-  {"question": "hihi cả nhà tự tạo testset bằng cơm nhé", "ground_truth": "Không kịp tạo luôn"},
+  {
+    "question": "Nhân viên chính thức được hưởng bao nhiêu ngày nghỉ phép năm?",
+    "ground_truth": "Nhân viên chính thức được hưởng 12 ngày nghỉ phép năm cho mỗi năm làm việc đầy đủ."
+  },
+  {
+    "question": "Nhân viên có thâm niên 7 năm sẽ được hưởng bao nhiêu ngày nghỉ phép năm?",
+    "ground_truth": "Nhân viên có thâm niên từ 5 năm trở lên sẽ được cộng thêm 1 ngày nghỉ phép, do đó tổng cộng sẽ là 13 ngày."
+  },
+  {
+    "question": "Nhân viên thử việc có được nghỉ phép năm không?",
+    "ground_truth": "Nhân viên thử việc không được nghỉ phép năm nhưng được hưởng các ngày nghỉ lễ theo quy định."
+  },
+  {
+    "question": "Việc đăng ký nghỉ phép cần thực hiện trước bao lâu?",
+    "ground_truth": "Việc đăng ký nghỉ phép phải được thực hiện qua hệ thống HR Portal trước ít nhất 3 ngày làm việc."
+  },
+  {
+    "question": "Công ty cho phép nhân viên làm việc từ xa bao nhiêu ngày mỗi tuần?",
+    "ground_truth": "Công ty cho phép nhân viên làm việc từ xa tối đa 2 ngày mỗi tuần."
+  },
+  {
+    "question": "Ai sẽ quyết định việc nhân viên có thể làm việc từ xa hay không?",
+    "ground_truth": "Việc làm việc từ xa phụ thuộc vào tính chất công việc và sự đồng ý của quản lý trực tiếp."
+  },
+  {
+    "question": "Nhân viên có cần tự chi trả chi phí điện nước và internet khi làm việc từ xa không?",
+    "ground_truth": "Chi phí điện nước và internet tại nhà do nhân viên tự chi trả."
+  },
+  {
+    "question": "Nhân viên được công ty cung cấp thiết bị gì khi làm việc từ xa?",
+    "ground_truth": "Thiết bị làm việc (laptop) do công ty cung cấp phải được bảo quản cẩn thận."
+  },
+  {
+    "question": "Tất cả nhân viên chính thức có được đóng bảo hiểm xã hội không?",
+    "ground_truth": "Tất cả nhân viên chính thức được đóng Bảo hiểm xã hội, Bảo hiểm y tế và Bảo hiểm thất nghiệp theo mức lương thực tế."
+  },
+  {
+    "question": "Gói bảo hiểm sức khỏe cao cấp PVI được cung cấp cho những ai?",
+    "ground_truth": "Công ty cung cấp gói bảo hiểm sức khỏe cao cấp (PVI) cho nhân viên và người thân sau 2 năm công tác."
+  },
+  {
+    "question": "Nhân viên sẽ được thưởng tháng lương thứ 13 khi nào?",
+    "ground_truth": "Thưởng tháng lương thứ 13 được chi trả vào dịp Tết Nguyên Đán cho nhân viên làm việc đủ 12 tháng."
+  },
+  {
+    "question": "Nhân viên có được hỗ trợ chi phí ăn trưa không?",
+    "ground_truth": "Nhân viên được hỗ trợ chi phí ăn trưa và gửi xe hàng tháng."
+  },
+  {
+    "question": "Có phải nhân viên làm việc từ xa phải luôn sẵn sàng phản hồi trong giờ làm việc không?",
+    "ground_truth": "Nhân viên phải đảm bảo có kết nối internet ổn định và luôn sẵn sàng phản hồi tin nhắn/cuộc gọi trong giờ làm việc."
+  },
+  {
+    "question": "Có điều kiện nào để nhân viên được cộng thêm ngày nghỉ phép không?",
+    "ground_truth": "Nhân viên có thâm niên từ 5 năm trở lên, cứ mỗi 5 năm thâm niên sẽ được cộng thêm 1 ngày nghỉ phép."
+  },
+  {
+    "question": "Có bao nhiêu ngày nghỉ phép năm cho nhân viên có thâm niên 10 năm?",
+    "ground_truth": "Nhân viên có thâm niên 10 năm sẽ được 12 + 2 = 14 ngày nghỉ phép năm."
+  },
+  {
+    "question": "Nhân viên có phải đăng ký nghỉ lễ không?",
+    "ground_truth": "Nhân viên thử việc không phải đăng ký nghỉ phép năm nhưng được hưởng các ngày nghỉ lễ theo quy định."
+  },
+  {
+    "question": "Khi nào nhân viên có thể đăng ký nghỉ phép?",
+    "ground_truth": "Nhân viên có thể đăng ký nghỉ phép khi thực hiện qua hệ thống HR Portal trước ít nhất 3 ngày làm việc."
+  },
+  {
+    "question": "Nhân viên có làm việc từ xa thì có được nghỉ phép không?",
+    "ground_truth": "Nhân viên làm việc từ xa vẫn được hưởng các ngày nghỉ phép như quy định."
+  },
+  {
+    "question": "Nhân viên thử việc có được hưởng bảo hiểm không?",
+    "ground_truth": "Không có thông tin cụ thể trong quy định, nhưng thông thường nhân viên thử việc không được hưởng đầy đủ bảo hiểm như nhân viên chính thức."
+  }
 ]

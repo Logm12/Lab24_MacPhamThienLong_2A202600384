@@ -1,0 +1,115 @@
+﻿question,naive_answer,production_answer,r1_winner,r1_reason,r2_winner,r2_reason,final_winner
+Nhân viên chính thức được hưởng bao nhiêu ngày nghỉ phép năm?,"# Quy định về Nghỉ phép năm
+
+Nhân viên chính thức được hưởng 12 ngày nghỉ phép năm cho mỗi năm làm việc đầy đủ. 
+Đối với nhân viên có thâm niên từ 5 năm trở lên, cứ mỗi 5 năm thâm niên sẽ được cộng thêm 1 ngày nghỉ phép.
+Nhân viên thử việc không được nghỉ phép năm nhưng được hưởng các ngày nghỉ lễ theo quy định.
+Việc đăng ký nghỉ phép phải được thực hiện qua hệ thống HR Portal trước ít nhất 3 ngày làm việc.",Nhân viên chính thức được hưởng 12 ngày nghỉ phép năm cho mỗi năm làm việc đầy đủ.,B,"Trả lời B cung cấp thông tin đầy đủ hơn về quy định nghỉ phép, bao gồm cả thâm niên và quy trình đăng ký nghỉ phép.",A,"Trả lời A cung cấp thông tin đầy đủ hơn về quy định nghỉ phép, bao gồm cả thâm niên và quy trình đăng ký nghỉ phép.",Naive
+Nhân viên có thâm niên 7 năm sẽ được hưởng bao nhiêu ngày nghỉ phép năm?,"# Quy định về Nghỉ phép năm
+
+Nhân viên chính thức được hưởng 12 ngày nghỉ phép năm cho mỗi năm làm việc đầy đủ. 
+Đối với nhân viên có thâm niên từ 5 năm trở lên, cứ mỗi 5 năm thâm niên sẽ được cộng thêm 1 ngày nghỉ phép.
+Nhân viên thử việc không được nghỉ phép năm nhưng được hưởng các ngày nghỉ lễ theo quy định.
+Việc đăng ký nghỉ phép phải được thực hiện qua hệ thống HR Portal trước ít nhất 3 ngày làm việc.","Nhân viên có thâm niên 7 năm sẽ được hưởng 12 ngày nghỉ phép năm cộng thêm 1 ngày nghỉ phép cho mỗi 5 năm thâm niên. Do đó, tổng số ngày nghỉ phép năm sẽ là 12 + 1 = 13 ngày.",A,"Trả lời A cung cấp thông tin chính xác và cụ thể về số ngày nghỉ phép của nhân viên có thâm niên 7 năm, trong khi Trả lời B quá dài và không trực tiếp trả lời câu hỏi.",B,Trả lời B cung cấp thông tin chính xác và tính toán rõ ràng về số ngày nghỉ phép năm cho nhân viên có thâm niên 7 năm.,Production
+Nhân viên thử việc có được nghỉ phép năm không?,"# Quy định về Nghỉ phép năm
+
+Nhân viên chính thức được hưởng 12 ngày nghỉ phép năm cho mỗi năm làm việc đầy đủ. 
+Đối với nhân viên có thâm niên từ 5 năm trở lên, cứ mỗi 5 năm thâm niên sẽ được cộng thêm 1 ngày nghỉ phép.
+Nhân viên thử việc không được nghỉ phép năm nhưng được hưởng các ngày nghỉ lễ theo quy định.
+Việc đăng ký nghỉ phép phải được thực hiện qua hệ thống HR Portal trước ít nhất 3 ngày làm việc.",Nhân viên thử việc không được nghỉ phép năm.,B,"Trả lời B cung cấp thông tin chi tiết và chính xác về quyền lợi nghỉ phép của nhân viên thử việc và các quy định liên quan, trong khi Trả lời A chỉ đơn thuần khẳng định mà không có thông tin bổ sung.",A,"Trả lời A cung cấp thông tin chi tiết và đầy đủ về quy định nghỉ phép năm, bao gồm cả thông tin về nhân viên chính thức và nhân viên thử việc.",Naive
+Việc đăng ký nghỉ phép cần thực hiện trước bao lâu?,"# Quy định về Nghỉ phép năm
+
+Nhân viên chính thức được hưởng 12 ngày nghỉ phép năm cho mỗi năm làm việc đầy đủ. 
+Đối với nhân viên có thâm niên từ 5 năm trở lên, cứ mỗi 5 năm thâm niên sẽ được cộng thêm 1 ngày nghỉ phép.
+Nhân viên thử việc không được nghỉ phép năm nhưng được hưởng các ngày nghỉ lễ theo quy định.
+Việc đăng ký nghỉ phép phải được thực hiện qua hệ thống HR Portal trước ít nhất 3 ngày làm việc.",Việc đăng ký nghỉ phép phải được thực hiện qua hệ thống HR Portal trước ít nhất 3 ngày làm việc.,A,"Trả lời A cung cấp thông tin chính xác và súc tích về thời gian cần thực hiện đăng ký nghỉ phép, trong khi Trả lời B có thêm thông tin không liên quan đến câu hỏi chính.",A,"Trả lời A cung cấp thông tin đầy đủ về quy định nghỉ phép, bao gồm cả thời gian đăng ký và các điều kiện liên quan.",Tie
+Công ty cho phép nhân viên làm việc từ xa bao nhiêu ngày mỗi tuần?,"# Quy định Làm việc từ xa (Work from Home)
+
+Công ty cho phép nhân viên làm việc từ xa tối đa 2 ngày mỗi tuần, tùy thuộc vào tính chất công việc và sự đồng ý của quản lý trực tiếp.
+Nhân viên phải đảm bảo có kết nối internet ổn định và luôn sẵn sàng phản hồi tin nhắn/cuộc gọi trong giờ làm việc.
+Chi phí điện nước và internet tại nhà do nhân viên tự chi trả.
+Thiết bị làm việc (laptop) do công ty cung cấp phải được bảo quản cẩn thận.",Công ty cho phép nhân viên làm việc từ xa tối đa 2 ngày mỗi tuần.,B,"Trả lời B cung cấp thông tin chi tiết hơn về quy định làm việc từ xa, bao gồm các điều kiện và yêu cầu, trong khi Trả lời A chỉ nêu số ngày tối đa.",A,"Trả lời A cung cấp thông tin chi tiết hơn về quy định làm việc từ xa, bao gồm các điều kiện và yêu cầu, trong khi Trả lời B chỉ nêu thông tin cơ bản.",Naive
+Ai sẽ quyết định việc nhân viên có thể làm việc từ xa hay không?,"# Quy định Làm việc từ xa (Work from Home)
+
+Công ty cho phép nhân viên làm việc từ xa tối đa 2 ngày mỗi tuần, tùy thuộc vào tính chất công việc và sự đồng ý của quản lý trực tiếp.
+Nhân viên phải đảm bảo có kết nối internet ổn định và luôn sẵn sàng phản hồi tin nhắn/cuộc gọi trong giờ làm việc.
+Chi phí điện nước và internet tại nhà do nhân viên tự chi trả.
+Thiết bị làm việc (laptop) do công ty cung cấp phải được bảo quản cẩn thận.",Quản lý trực tiếp sẽ quyết định việc nhân viên có thể làm việc từ xa hay không.,B,"Trả lời B cung cấp thông tin chi tiết hơn về quy định làm việc từ xa, bao gồm cả sự đồng ý của quản lý và các yêu cầu khác, trong khi Trả lời A chỉ nêu một thông tin đơn giản.",A,"Trả lời A cung cấp thông tin chi tiết về quy định làm việc từ xa, bao gồm cả sự đồng ý của quản lý, trong khi Trả lời B chỉ nêu một phần thông tin.",Naive
+Nhân viên có cần tự chi trả chi phí điện nước và internet khi làm việc từ xa không?,"# Quy định Làm việc từ xa (Work from Home)
+
+Công ty cho phép nhân viên làm việc từ xa tối đa 2 ngày mỗi tuần, tùy thuộc vào tính chất công việc và sự đồng ý của quản lý trực tiếp.
+Nhân viên phải đảm bảo có kết nối internet ổn định và luôn sẵn sàng phản hồi tin nhắn/cuộc gọi trong giờ làm việc.
+Chi phí điện nước và internet tại nhà do nhân viên tự chi trả.
+Thiết bị làm việc (laptop) do công ty cung cấp phải được bảo quản cẩn thận.","Có, nhân viên cần tự chi trả chi phí điện nước và internet khi làm việc từ xa.",B,Trả lời B cung cấp thông tin chi tiết hơn về quy định làm việc từ xa và xác nhận rằng nhân viên phải tự chi trả chi phí điện nước và internet.,A,"Trả lời A cung cấp thông tin chi tiết hơn về quy định làm việc từ xa và các yêu cầu liên quan, trong khi Trả lời B chỉ đơn thuần xác nhận chi phí mà không có bối cảnh.",Naive
+Nhân viên được công ty cung cấp thiết bị gì khi làm việc từ xa?,"# Quy định Làm việc từ xa (Work from Home)
+
+Công ty cho phép nhân viên làm việc từ xa tối đa 2 ngày mỗi tuần, tùy thuộc vào tính chất công việc và sự đồng ý của quản lý trực tiếp.
+Nhân viên phải đảm bảo có kết nối internet ổn định và luôn sẵn sàng phản hồi tin nhắn/cuộc gọi trong giờ làm việc.
+Chi phí điện nước và internet tại nhà do nhân viên tự chi trả.
+Thiết bị làm việc (laptop) do công ty cung cấp phải được bảo quản cẩn thận.",Nhân viên được công ty cung cấp laptop khi làm việc từ xa.,B,"Trả lời B cung cấp thông tin chi tiết hơn về thiết bị và các quy định liên quan đến làm việc từ xa, trong khi Trả lời A chỉ đề cập đến laptop.",A,"Trả lời A cung cấp thông tin chi tiết hơn về quy định làm việc từ xa và các yêu cầu liên quan, trong khi Trả lời B chỉ nêu rõ thiết bị được cung cấp.",Naive
+Tất cả nhân viên chính thức có được đóng bảo hiểm xã hội không?,"# Quy định về Bảo hiểm và Phúc lợi
+
+Tất cả nhân viên chính thức được đóng Bảo hiểm xã hội, Bảo hiểm y tế và Bảo hiểm thất nghiệp theo mức lương thực tế.
+Ngoài ra, công ty cung cấp gói bảo hiểm sức khỏe cao cấp (PVI) cho nhân viên và người thân sau 2 năm công tác.
+Thưởng tháng lương thứ 13 được chi trả vào dịp Tết Nguyên Đán cho nhân viên làm việc đủ 12 tháng.
+Nhân viên được hỗ trợ chi phí ăn trưa và gửi xe hàng tháng.","Có, tất cả nhân viên chính thức được đóng Bảo hiểm xã hội theo mức lương thực tế.",B,Trả lời B cung cấp thông tin đầy đủ hơn về các loại bảo hiểm và phúc lợi cho nhân viên chính thức.,A,"Trả lời A cung cấp thông tin đầy đủ hơn về các loại bảo hiểm và phúc lợi khác, trong khi Trả lời B chỉ đề cập đến bảo hiểm xã hội.",Naive
+Gói bảo hiểm sức khỏe cao cấp PVI được cung cấp cho những ai?,"# Quy định về Bảo hiểm và Phúc lợi
+
+Tất cả nhân viên chính thức được đóng Bảo hiểm xã hội, Bảo hiểm y tế và Bảo hiểm thất nghiệp theo mức lương thực tế.
+Ngoài ra, công ty cung cấp gói bảo hiểm sức khỏe cao cấp (PVI) cho nhân viên và người thân sau 2 năm công tác.
+Thưởng tháng lương thứ 13 được chi trả vào dịp Tết Nguyên Đán cho nhân viên làm việc đủ 12 tháng.
+Nhân viên được hỗ trợ chi phí ăn trưa và gửi xe hàng tháng.",Gói bảo hiểm sức khỏe cao cấp PVI được cung cấp cho nhân viên và người thân của họ sau 2 năm công tác.,B,"Trả lời B cung cấp thông tin đầy đủ và chi tiết hơn về đối tượng được cung cấp gói bảo hiểm sức khỏe cao cấp PVI, bao gồm cả quy định về thời gian công tác và các phúc lợi khác.",B,Trả lời B cung cấp thông tin chính xác và đầy đủ hơn về đối tượng được cung cấp gói bảo hiểm sức khỏe cao cấp PVI.,Tie
+Nhân viên sẽ được thưởng tháng lương thứ 13 khi nào?,"# Quy định về Bảo hiểm và Phúc lợi
+
+Tất cả nhân viên chính thức được đóng Bảo hiểm xã hội, Bảo hiểm y tế và Bảo hiểm thất nghiệp theo mức lương thực tế.
+Ngoài ra, công ty cung cấp gói bảo hiểm sức khỏe cao cấp (PVI) cho nhân viên và người thân sau 2 năm công tác.
+Thưởng tháng lương thứ 13 được chi trả vào dịp Tết Nguyên Đán cho nhân viên làm việc đủ 12 tháng.
+Nhân viên được hỗ trợ chi phí ăn trưa và gửi xe hàng tháng.",Nhân viên sẽ được thưởng tháng lương thứ 13 vào dịp Tết Nguyên Đán nếu làm việc đủ 12 tháng.,B,"Trả lời B cung cấp thông tin đầy đủ và chi tiết hơn về thưởng tháng lương thứ 13 cũng như các phúc lợi khác, trong khi Trả lời A chỉ đề cập đến phần thưởng mà không có thông tin bổ sung.",B,Trả lời B cung cấp thông tin chính xác và súc tích hơn về thời điểm và điều kiện nhận thưởng tháng lương thứ 13.,Tie
+Nhân viên có được hỗ trợ chi phí ăn trưa không?,"# Quy định về Bảo hiểm và Phúc lợi
+
+Tất cả nhân viên chính thức được đóng Bảo hiểm xã hội, Bảo hiểm y tế và Bảo hiểm thất nghiệp theo mức lương thực tế.
+Ngoài ra, công ty cung cấp gói bảo hiểm sức khỏe cao cấp (PVI) cho nhân viên và người thân sau 2 năm công tác.
+Thưởng tháng lương thứ 13 được chi trả vào dịp Tết Nguyên Đán cho nhân viên làm việc đủ 12 tháng.
+Nhân viên được hỗ trợ chi phí ăn trưa và gửi xe hàng tháng.","Có, nhân viên được hỗ trợ chi phí ăn trưa hàng tháng.",B,"Trả lời B cung cấp thông tin đầy đủ hơn về hỗ trợ chi phí ăn trưa cùng với các phúc lợi khác, trong khi Trả lời A chỉ đề cập đến hỗ trợ ăn trưa mà không có thêm chi tiết.",A,"Trả lời A cung cấp thông tin chi tiết hơn về các phúc lợi khác ngoài hỗ trợ chi phí ăn trưa, trong khi Trả lời B chỉ nêu một cách ngắn gọn.",Naive
+Có phải nhân viên làm việc từ xa phải luôn sẵn sàng phản hồi trong giờ làm việc không?,"# Quy định Làm việc từ xa (Work from Home)
+
+Công ty cho phép nhân viên làm việc từ xa tối đa 2 ngày mỗi tuần, tùy thuộc vào tính chất công việc và sự đồng ý của quản lý trực tiếp.
+Nhân viên phải đảm bảo có kết nối internet ổn định và luôn sẵn sàng phản hồi tin nhắn/cuộc gọi trong giờ làm việc.
+Chi phí điện nước và internet tại nhà do nhân viên tự chi trả.
+Thiết bị làm việc (laptop) do công ty cung cấp phải được bảo quản cẩn thận.","Có, nhân viên làm việc từ xa phải luôn sẵn sàng phản hồi tin nhắn/cuộc gọi trong giờ làm việc.",B,"Trả lời B cung cấp thông tin đầy đủ và chi tiết hơn về quy định làm việc từ xa, bao gồm cả yêu cầu phản hồi trong giờ làm việc.",A,"Trả lời A cung cấp thông tin chi tiết về quy định làm việc từ xa, bao gồm yêu cầu về sẵn sàng phản hồi, trong khi Trả lời B chỉ nêu một câu đơn giản.",Naive
+Có điều kiện nào để nhân viên được cộng thêm ngày nghỉ phép không?,"# Quy định về Nghỉ phép năm
+
+Nhân viên chính thức được hưởng 12 ngày nghỉ phép năm cho mỗi năm làm việc đầy đủ. 
+Đối với nhân viên có thâm niên từ 5 năm trở lên, cứ mỗi 5 năm thâm niên sẽ được cộng thêm 1 ngày nghỉ phép.
+Nhân viên thử việc không được nghỉ phép năm nhưng được hưởng các ngày nghỉ lễ theo quy định.
+Việc đăng ký nghỉ phép phải được thực hiện qua hệ thống HR Portal trước ít nhất 3 ngày làm việc.","Có, nhân viên có thâm niên từ 5 năm trở lên sẽ được cộng thêm 1 ngày nghỉ phép cho mỗi 5 năm thâm niên.",B,"Trả lời B cung cấp thông tin đầy đủ và chi tiết hơn về quy định nghỉ phép, bao gồm cả số ngày nghỉ phép cơ bản và quy định cho nhân viên thử việc.",A,"Trả lời A cung cấp thông tin đầy đủ và chi tiết hơn về quy định nghỉ phép, bao gồm cả số ngày nghỉ phép cơ bản và quy trình đăng ký, trong khi Trả lời B chỉ nêu một phần thông tin.",Naive
+Có bao nhiêu ngày nghỉ phép năm cho nhân viên có thâm niên 10 năm?,"# Quy định về Nghỉ phép năm
+
+Nhân viên chính thức được hưởng 12 ngày nghỉ phép năm cho mỗi năm làm việc đầy đủ. 
+Đối với nhân viên có thâm niên từ 5 năm trở lên, cứ mỗi 5 năm thâm niên sẽ được cộng thêm 1 ngày nghỉ phép.
+Nhân viên thử việc không được nghỉ phép năm nhưng được hưởng các ngày nghỉ lễ theo quy định.
+Việc đăng ký nghỉ phép phải được thực hiện qua hệ thống HR Portal trước ít nhất 3 ngày làm việc.",Nhân viên có thâm niên 10 năm sẽ được hưởng 12 ngày nghỉ phép năm cộng thêm 2 ngày nghỉ phép (1 ngày cho mỗi 5 năm thâm niên). Tổng cộng là 12 + 2 = 14 ngày nghỉ phép năm.,A,"Trả lời A cung cấp thông tin chính xác và cụ thể về số ngày nghỉ phép năm cho nhân viên có thâm niên 10 năm, trong khi Trả lời B chỉ đưa ra thông tin chung mà không trả lời trực tiếp câu hỏi.",B,"Trả lời B cung cấp thông tin chính xác và cụ thể về số ngày nghỉ phép cho nhân viên có thâm niên 10 năm, trong khi Trả lời A chỉ đưa ra quy định chung mà không trả lời trực tiếp câu hỏi.",Production
+Nhân viên có phải đăng ký nghỉ lễ không?,"# Quy định về Nghỉ phép năm
+
+Nhân viên chính thức được hưởng 12 ngày nghỉ phép năm cho mỗi năm làm việc đầy đủ. 
+Đối với nhân viên có thâm niên từ 5 năm trở lên, cứ mỗi 5 năm thâm niên sẽ được cộng thêm 1 ngày nghỉ phép.
+Nhân viên thử việc không được nghỉ phép năm nhưng được hưởng các ngày nghỉ lễ theo quy định.
+Việc đăng ký nghỉ phép phải được thực hiện qua hệ thống HR Portal trước ít nhất 3 ngày làm việc.",Không tìm thấy thông tin.,B,"Trả lời B cung cấp thông tin chi tiết và rõ ràng về quy định nghỉ phép, bao gồm cả việc đăng ký nghỉ lễ, trong khi Trả lời A không có thông tin hữu ích.",A,"Trả lời A cung cấp thông tin chi tiết về quy định nghỉ phép và yêu cầu đăng ký, trong khi Trả lời B không cung cấp thông tin hữu ích nào.",Naive
+Khi nào nhân viên có thể đăng ký nghỉ phép?,"# Quy định về Nghỉ phép năm
+
+Nhân viên chính thức được hưởng 12 ngày nghỉ phép năm cho mỗi năm làm việc đầy đủ. 
+Đối với nhân viên có thâm niên từ 5 năm trở lên, cứ mỗi 5 năm thâm niên sẽ được cộng thêm 1 ngày nghỉ phép.
+Nhân viên thử việc không được nghỉ phép năm nhưng được hưởng các ngày nghỉ lễ theo quy định.
+Việc đăng ký nghỉ phép phải được thực hiện qua hệ thống HR Portal trước ít nhất 3 ngày làm việc.",Nhân viên có thể đăng ký nghỉ phép qua hệ thống HR Portal trước ít nhất 3 ngày làm việc.,B,"Trả lời B cung cấp thông tin đầy đủ hơn về quy định nghỉ phép và cách đăng ký, trong khi Trả lời A chỉ đề cập đến việc đăng ký mà không có thông tin bổ sung.",A,"Trả lời A cung cấp thông tin đầy đủ về quy định nghỉ phép và cách thức đăng ký, trong khi Trả lời B chỉ đề cập đến một phần thông tin.",Naive
+Nhân viên có làm việc từ xa thì có được nghỉ phép không?,"# Quy định Làm việc từ xa (Work from Home)
+
+Công ty cho phép nhân viên làm việc từ xa tối đa 2 ngày mỗi tuần, tùy thuộc vào tính chất công việc và sự đồng ý của quản lý trực tiếp.
+Nhân viên phải đảm bảo có kết nối internet ổn định và luôn sẵn sàng phản hồi tin nhắn/cuộc gọi trong giờ làm việc.
+Chi phí điện nước và internet tại nhà do nhân viên tự chi trả.
+Thiết bị làm việc (laptop) do công ty cung cấp phải được bảo quản cẩn thận.",Không tìm thấy thông tin.,B,"Trả lời B cung cấp thông tin chi tiết về quy định làm việc từ xa, trong khi Trả lời A không có thông tin hữu ích nào.",A,"Trả lời A cung cấp thông tin chi tiết về quy định làm việc từ xa, trong khi Trả lời B không cung cấp thông tin nào.",Naive
+Nhân viên thử việc có được hưởng bảo hiểm không?,"# Quy định về Bảo hiểm và Phúc lợi
+
+Tất cả nhân viên chính thức được đóng Bảo hiểm xã hội, Bảo hiểm y tế và Bảo hiểm thất nghiệp theo mức lương thực tế.
+Ngoài ra, công ty cung cấp gói bảo hiểm sức khỏe cao cấp (PVI) cho nhân viên và người thân sau 2 năm công tác.
+Thưởng tháng lương thứ 13 được chi trả vào dịp Tết Nguyên Đán cho nhân viên làm việc đủ 12 tháng.
+Nhân viên được hỗ trợ chi phí ăn trưa và gửi xe hàng tháng.",Không tìm thấy thông tin.,B,"Trả lời B cung cấp thông tin chi tiết về bảo hiểm và phúc lợi cho nhân viên, trong khi Trả lời A không có thông tin hữu ích.",A,"Trả lời A cung cấp thông tin chi tiết về bảo hiểm cho nhân viên chính thức, trong khi Trả lời B không có thông tin hữu ích nào.",Naive

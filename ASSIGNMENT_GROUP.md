@@ -84,15 +84,15 @@ lab18-production-rag/
 │   ├── m2_search.py            # Cá nhân B đã implement
 │   ├── m3_rerank.py            # Cá nhân C đã implement
 │   ├── m4_eval.py              # Cá nhân D đã implement
-│   └── pipeline.py             # ★ Nhóm ghép
+│   └── pipeline.py             #  Nhóm ghép
 ├── reports/
-│   ├── ragas_report.json       # ★ Auto-generated (python main.py)
+│   ├── ragas_report.json       #  Auto-generated (python main.py)
 │   └── naive_baseline_report.json
 ├── analysis/
-│   ├── failure_analysis.md     # ★ Nhóm điền
-│   ├── group_report.md         # ★ Nhóm điền
+│   ├── failure_analysis.md     #  Nhóm điền
+│   ├── group_report.md         #  Nhóm điền
 │   └── reflections/
-│       ├── reflection_NguyenA.md   # ★ Cá nhân
+│       ├── reflection_NguyenA.md   #  Cá nhân
 │       ├── reflection_TranB.md
 │       └── ...
 └── README.md
