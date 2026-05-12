@@ -1,7 +1,8 @@
 # Deployment Blueprint: Hệ Thống Production RAG Với Guardrails Stack
 
-**Tác giả:** Mạc Phạm Thiên Long - 2A202600384  
-**Ngày tài liệu:** 12 tháng 05, 2026  
+## Mạc Phạm Thiên Long - 2A202600384  
+
+12 tháng 05, 2026  
 
 Tài liệu này mô tả kiến trúc kỹ thuật, các chỉ số đảm bảo dịch vụ (SLO), ước tính chi phí vận hành và chiến lược cảnh báo cho hệ thống Production RAG, đã được tăng cường lớp bảo mật đầu vào/đầu ra.
 
